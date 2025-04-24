@@ -7,13 +7,6 @@
 🧠 Passionate about full-stack dev, mobile apps, and clean architecture  
 🐍 Working with Java · Kotlin · Python · SQL · React  
 🧩 Into data structures, problem solving & meaningful design  
-🌱 Currently exploring Android & Firebase
-
----
-
-## ✨ Projects
-- [🧠 Conference Manager](https://github.com/andreeampreda/Proiect-WebTech) – Web platform for scientific paper review  
-- 💸 Banking App *(soon)* – Kotlin + Firebase for seamless mobile banking  
 
 ---
 
